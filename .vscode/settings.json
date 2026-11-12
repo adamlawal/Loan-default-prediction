@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "/opt/miniconda3/bin/python3",
+  "python.pythonPath": "/opt/miniconda3/bin/python3",
+  "cursorpyright.analysis.extraPaths": [
+    "/opt/miniconda3/lib/python3.13/site-packages"
+  ]
+}
